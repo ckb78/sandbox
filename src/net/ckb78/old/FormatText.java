@@ -1,3 +1,5 @@
+package net.ckb78.old;
+
 public class FormatText {
     public static void main(String[] args) {
         String text = "Everyone _said_ that it would not work. Then someone came, " + "#UNAWARE# of what everyone said, and just did it.";

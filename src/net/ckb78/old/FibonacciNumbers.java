@@ -1,9 +1,10 @@
-package Ckb.interview.training;
+package net.ckb78.old;
+
 import java.util.ArrayList;
 
 // Task: Create code that prints out all fibonachi numbers up to 50;
 
-public class Fib {
+public class FibonacciNumbers {
 
     public static void main(String[] args) {
         ArrayList<Integer> fibArr = fib(50);

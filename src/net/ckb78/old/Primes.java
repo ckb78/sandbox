@@ -1,4 +1,4 @@
-package Ckb.interview.training;
+package net.ckb78.old;
 
 import java.util.ArrayList;
 import java.util.List;

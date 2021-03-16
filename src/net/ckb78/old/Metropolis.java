@@ -1,3 +1,5 @@
+package net.ckb78.old;
+
 import java.util.Scanner; public class Metropolis {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

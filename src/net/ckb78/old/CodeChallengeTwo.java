@@ -1,4 +1,4 @@
-// Udemy Coding Challenge 2
+package net.ckb78.old;// Udemy Coding Challenge 2
 
 import java.util.Scanner;
 import java.lang.Math;

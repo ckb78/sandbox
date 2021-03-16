@@ -1,4 +1,4 @@
-package Ckb.interview.training;
+package net.ckb78.old;
 
 // Task: Find out if any two numbers in an array multiplies to 20.
 

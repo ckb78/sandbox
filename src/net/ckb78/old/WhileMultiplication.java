@@ -1,4 +1,4 @@
-/* 
+package net.ckb78.old;/*
 Multiplication table
 
 Multiplication table

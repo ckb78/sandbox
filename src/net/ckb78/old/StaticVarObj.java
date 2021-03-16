@@ -1,3 +1,5 @@
+package net.ckb78.old;
+
 public class StaticVarObj {
 
     static int staticNumber = 0;

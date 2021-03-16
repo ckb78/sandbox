@@ -1,4 +1,4 @@
-/* 
+package net.ckb78.old;/*
 Positive and negative numbers
 Use the keyboard to enter three integers. Display the number of positive numbers and the number of negative numbers in the original set, in the following form:
 "Number of negative numbers: a" and "Number of positive numbers: b", where a and b are the unknowns.

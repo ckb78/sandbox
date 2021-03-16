@@ -1,3 +1,5 @@
+package net.ckb78.old;
+
 public class WhileLoopTest {
     public static void main(String[] args) {
 

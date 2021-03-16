@@ -1,4 +1,4 @@
-/* 
+package net.ckb78.old;/*
 Crossing the road blindly
 
 The pedestrian traffic light is programmed as follows: 

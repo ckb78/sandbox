@@ -1,4 +1,4 @@
-package Ckb.interview.training;
+package net.ckb78.old;
 
 // Task: Create code to find out if a word is a palindrome.
 

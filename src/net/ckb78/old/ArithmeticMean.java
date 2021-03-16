@@ -1,4 +1,4 @@
-/* 
+package net.ckb78.old;/*
 Arithmetic mean
 
 Use the keyboard to enter numbers, and then calculate the arithmetic mean.

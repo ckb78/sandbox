@@ -1,6 +1,5 @@
 package net.ckb78;
 
-
 import java.util.Arrays;
 
 public class AlphaBetSymmetry {

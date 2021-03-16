@@ -1,3 +1,5 @@
+package net.ckb78.old;
+
 public class ForLoopTest {
     public static void main(String[] args) {
         System.out.println("Counting up to 100 in increments of 2, but will skip 60 and break at 80.");

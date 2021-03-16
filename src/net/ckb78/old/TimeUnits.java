@@ -1,4 +1,7 @@
+package net.ckb78.old;
+
 import java.util.Scanner;
+
 public class TimeUnits {
     public static void main(String[] args) {
         System.out.println("How many seconds do you have available? ");

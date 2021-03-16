@@ -1,3 +1,5 @@
+package net.ckb78.old;
+
 import java.util.Scanner;
 import java.util.concurrent.ThreadLocalRandom;
 
@@ -50,8 +52,6 @@ public class CodeChallengeThree {
             default:
                 System.out.println("Invalid response.");
         }
-
-
-        }
     }
+}
 

@@ -1,3 +1,5 @@
+package net.ckb78.old;
+
 import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
 
 import java.util.Scanner;

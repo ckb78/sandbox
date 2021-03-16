@@ -1,4 +1,4 @@
-package Ckb.interview.training;
+package net.ckb78.old;
 
 public class FloydsTriangle {
 

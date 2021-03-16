@@ -1,3 +1,5 @@
+package net.ckb78.old;
+
 import javax.swing.JOptionPane;
 
 public class Character {

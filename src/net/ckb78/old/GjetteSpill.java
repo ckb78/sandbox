@@ -1,3 +1,5 @@
+package net.ckb78.old;
+
 import java.util.Scanner;
 import java.util.concurrent.ThreadLocalRandom;
 

@@ -1,4 +1,4 @@
-/* 
+package net.ckb78.old;/*
 Describing numbers
 
 Enter an integer from the keyboard in the range 1 - 999. Display a string description as follows:

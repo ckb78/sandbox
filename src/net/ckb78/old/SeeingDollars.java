@@ -1,4 +1,4 @@
-/* 
+package net.ckb78.old;/*
 Seeing dollars in your future
 Use a while loop to display a 10x10 square of dollar signs.
 Don't separate the symbols in each line.

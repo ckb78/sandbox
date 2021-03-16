@@ -1,3 +1,4 @@
+package net.ckb78.old;
 
 import java.io.*;
 import java.util.Scanner;

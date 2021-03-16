@@ -1,4 +1,4 @@
-/* 
+package net.ckb78.old;/*
 Adding
 
 Use the keyboard to enter numbers.

@@ -1,8 +1,12 @@
-package Ckb.interview.training;
+package net.ckb78.old;
 
 import java.util.Scanner;
 
-class CheckPoint1 {
+public class Triangles {
+
+    public static void main(String[] args) {
+        getInput();
+    }
 
     // Metode for input fra bruker.
     static void getInput() {
@@ -77,7 +81,5 @@ class CheckPoint1 {
         }
     }
 
-    public static void main(String[] args) {
-        getInput();
-    }
+
 }

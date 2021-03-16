@@ -1,4 +1,4 @@
-/* 
+package net.ckb78.old;/*
 Positive number
 
 Use the keyboard to enter three integers. Display the number of positive numbers in the original set.
@@ -24,3 +24,4 @@ public class PositiveNumbers {
         }
         System.out.println(counter);
     }
+}

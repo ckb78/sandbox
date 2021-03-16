@@ -1,3 +1,5 @@
+package net.ckb78.old;
+
 public class Droid {
 
     // Instance fields

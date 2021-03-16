@@ -1,3 +1,5 @@
+package net.ckb78.old;
+
 class DataTypes {
     public static void main(String[] args) {
         // 1. Your initials

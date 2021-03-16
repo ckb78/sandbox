@@ -1,3 +1,5 @@
+package net.ckb78.old;
+
 public class Arrays {
 
     public static void main(String[] args) {

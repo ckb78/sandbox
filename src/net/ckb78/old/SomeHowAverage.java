@@ -1,4 +1,4 @@
-/* 
+package net.ckb78.old;/*
 Somehow average
 Use the keyboard to enter three numbers, and then display the middle number.
 In other words, not the largest and not the smallest.

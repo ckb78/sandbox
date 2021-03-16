@@ -1,3 +1,5 @@
+package net.ckb78.old;
+
 public class BottlesOnTheWall {
     public static void main(String[] args){
         for(int i = 99; i > 0; i--){

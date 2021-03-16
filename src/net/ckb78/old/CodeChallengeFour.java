@@ -1,3 +1,5 @@
+package net.ckb78.old;
+
 import java.sql.SQLOutput;
 import java.util.Scanner;
 import java.util.concurrent.ThreadLocalRandom;
@@ -6,13 +8,11 @@ public class CodeChallengeFour {
 
     public static void main(String[] args) {
 
-
         // Exercise one
         System.out.println("\nExercise one:");
         for (int i = 89; i <= 117; i++) {
             System.out.println(i);
         }
-
 
         // Exercise two
         System.out.println("\nExercise two:");
@@ -85,9 +85,6 @@ public class CodeChallengeFour {
             System.out.println("\n\nDo you want to play again? y/n ");
             play = scanner.next();
         }
-
-
-
 
     }
 }

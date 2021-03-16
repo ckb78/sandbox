@@ -1,4 +1,4 @@
-// Import Scanner Class
+package net.ckb78.old;// Import Scanner Class
 import java.util.Scanner;
 
 public class InputTest {

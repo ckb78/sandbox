@@ -1,3 +1,5 @@
+package net.ckb78.old;
+
 public class TextFormat {
     public static void main(String[] args) {
         System.out.println("       _______");

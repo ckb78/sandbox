@@ -1,3 +1,5 @@
+package net.ckb78.old;
+
 public class CodeChallengeOne {
     public static void main(String[] args) {
         System.out.println("SHOPPING LIST\n\t- Milk\n\t\t> Semi-skimmed\n\t\t> Medium\n\t- Eggs\n\t\t> Free Range\n\t- Bread\n");
@@ -26,5 +28,4 @@ public class CodeChallengeOne {
         System.out.print(5 % 3 + " ");
         System.out.print(6 % 3 + " ");
     }
-
 }

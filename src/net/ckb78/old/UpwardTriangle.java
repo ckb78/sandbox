@@ -1,3 +1,5 @@
+package net.ckb78.old;
+
 public class UpwardTriangle {
     public static void main(String[] args) {
         //write your code here
